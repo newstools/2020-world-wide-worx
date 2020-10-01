@@ -1,0 +1,102 @@
+Organisations across sub-Saharan Africa are increasingly leveraging multiple cloud deployments to achieve digital transformation. 
+
+
+
+The shift is one of the key findings in World Wide Worx’s new Cloud in Africa 2020 report, which surveyed technology decision-makers in South Africa, Nigeria, Kenya, Zambia, Zimbabwe, Namibia, Botswana and Malawi. 
+
+
+
+The study, which is the most comprehensive of its kind in the region, found that 33% of organisations currently have multiple cloud providers (between two to ten). 69% of respondents also claim to have multiple enterprise agreements with cloud providers. 
+
+
+
+Africa’s multi-cloud uptake slightly trails Europe, Middle East and Africa (EMEA) as a whole – F5’s latest State of Application Services report found that 88% of EMEA firms are now leveraging multi-cloud environments. However, the gap is set to close in the coming years as cloud deployments increase in frequency and technical maturity. 
+
+
+
+“With major data centres having been rolled out in South Africa over the past 18 months, and more to come, the region as a whole will become a hotspot of cloud growth,” says Arthur Goldstuck, managing director of World Wide Worx and lead analyst on the project.  “Encouragingly, while South Africa will clearly be the springboard for that growth, we can also see massive demand looming across sub-Saharan Africa.” 
+
+
+
+According to the report, over half of all respondents (56%) estimate that more than a quarter of their applications will have moved to the cloud by the end of next year. A high proportion of these organisations (39%) are using automation templates to migrate apps.  
+
+
+
+Overall, the respondents’ three most critical apps were related to finance (100%), accounting (97%) and human resources (92%). Marketing apps are also proving increasingly important (81%) as more services and engagements are virtualised due to Covid-19. 
+
+
+
+“With multi-cloud deployments here to stay, it is crucial that African organisations seek to leverage a consistent set of application services capable of delivering game-changing speed, security and agility – irrespective of cloud environment,” says Samir Sehil, F5 regional cloud sales manager for Middle East, Turkey and Africa. 
+
+
+
+“Every application is unique and serves a specific function, such as finance, sales, or production. Each will have end users that scale from less than a hundred to the millions. And each has a different risk exposure that can span from a breach being simply embarrassing to costing the business billions of dollars in damage.” 
+
+
+
+Looking to the next twelve months, over half (58%) of respondents expect to leverage on-premises private clouds as part of their deployment strategies. A third will utilise Software-as-a-Service (SaaS) offerings and 27% will use co-located data centres. 16% of organisations will also use public cloud Infrastructure-as-a-Service offerings (up from just 4% in the 2018 edition of this report) and 13% are exploring Platform-as-a-Service options (up from 2% in 2018). 
+
+
+
+When it comes to formulating cloud strategies, 46% rely on partners, 16% base decisions on internal business cases and 8% are guided by input from cloud providers.  
+
+
+
+“COVID-19 has caused firms to accelerate the enhancement of their digital capabilities to ensure business agility,” says Greg McDonald, director of systems engineering at Dell Technologies South Africa.   
+
+
+
+“Thanks to more organisations embracing the multi-cloud, plans that previously had a trajectory of months and years, have been executed in days and hours. We expect that this momentum – and embrace of cloud technology – will continue at pace and drive further innovation across Africa.” 
+
+
+
+Nick Treurnicht, customer engineer at Digicloud Africa, echoes this sentiment. 
+
+
+
+“Cloud deployments that are specifically tailored to business needs are clearly having a big impact,” he says.   
+
+
+
+“Businesses are still operating with a lot of uncertainty. One thing that provides some certainty is the ability to work efficiently, securely, and remotely with cloud-based collaboration tools. We have seen organisations mature more and more in this respect. Many businesses may be in flux, but their employees remain productive and their ability to deliver differentiated services is expanding fast.” 
+
+
+
+For more information on the report, our research services, or corporate presentations, email World Wide Worx.
+
+
+
+To download the Cloud in Africa 2020 report, fill in the form below:
+
+
+
+                
+                        
+                            Cloud in Africa 2020
+                            Provide your details below to download the Cloud in Africa 2020 report.
+                        
+                        First name*Surname*Name of company, organisation or institution (If none, say Private)*Email*
+                                
+                                    
+                                    Enter Email
+                                
+                                
+                                    
+                                    Confirm Email
+                                
+                                
+                            
+                            
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+                        
+                         jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 4) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ); jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } );
